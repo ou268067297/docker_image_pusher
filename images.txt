@@ -3,3 +3,8 @@ python:alpine3.19
 kasmweb/nginx:1.25.3
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
+python:3.12
+lobehub/lobe-chat:latest
+jellyfin/jellyfin:latest
+amilys/embyserver:latest
+gdy666/lucky:latest
