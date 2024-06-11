@@ -16,7 +16,7 @@ p3terx/aria2-pro:latest
 jlesage/firefox:latest
 ou268067297/mihomo:latest
 ou268067297/metacubexd:latest
-haroldli/xiaoya-tvbox：latest
+haroldli/xiaoya-tvbox:latest
 metatube/metatube-server:latest
 xylplm/media-saber:latest-beta
 0nlylty/dockercopilot:ZSPACE
