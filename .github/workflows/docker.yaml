@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
-  schedyle:
+  schedule:
     - cron: '00 23 * * *'
 
 env:
