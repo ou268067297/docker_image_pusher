@@ -4,3 +4,31 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+alpine
+python:alpine3.19
+kasmweb/nginx:1.25.3
+--platform=linux/amd64 redis:7.0.15-alpine3.20
+--platform=linux/arm/v7 redis:7.0.15-alpine3.20
+python:3.12
+lobehub/lobe-chat:latest
+jellyfin/jellyfin:latest
+amilys/embyserver:latest
+gdy666/lucky:latest
+jxxghp/moviepilot:latest
+linuxserver/qbittorrent:latest
+ubuntu:latest
+containrrr/watchtower:latest
+p3terx/aria2-pro:latest
+jlesage/firefox:latest
+ou268067297/mihomo:latest
+ou268067297/metacubexd:latest
+haroldli/xiaoya-tvbox:latest
+metatube/metatube-server:latest
+xylplm/media-saber:latest-beta
+0nlylty/dockercopilot:ZSPACE
+whyour/qinglong:debian
+tailscale/tailscale:latest
+emqx/emqx:latest
+xhofe/alist:latest
+nevinee/qbittorrent:latest
+vaultwarden/server:latest
