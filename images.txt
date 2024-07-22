@@ -21,3 +21,4 @@ emqx/emqx:latest
 xhofe/alist:latest
 nevinee/qbittorrent:latest
 vaultwarden/server:latest
+openjdk:11-jre-slim-buster
